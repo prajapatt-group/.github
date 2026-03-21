@@ -1,4 +1,4 @@
-# AbhishekPrajapatt Group
+# Abhishek Prajapatt Group
 **Defining the Next Frontier of Human Possibility.**
 
 Welcome to the official headquarters of AbhishekPrajapatt Group. We are an emerging global conglomerate dedicated to high-performance engineering, architectural excellence, and the relentless pursuit of innovation.
