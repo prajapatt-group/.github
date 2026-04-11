@@ -3,6 +3,16 @@
 
 Welcome to the official headquarters of AbhishekPrajapatt Group. We are an emerging global conglomerate dedicated to high-performance engineering, architectural excellence, and the relentless pursuit of innovation.
 
+---
+
+## 🏢 Our Divisions
+
+| Division | Status |
+|---|---|
+| 🤖 [Prajapatt-AI](https://github.com/prajapatt-ai) | 🔨 Building |
+
+---
+
 ### Our Philosophy:
 * **Strategic Innovation:** Solving the world's most complex challenges through structured thinking.
 * **Architectural Excellence:** Building robust systems designed for the next century.
