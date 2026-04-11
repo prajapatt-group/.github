@@ -9,7 +9,7 @@ Welcome to the official headquarters of AbhishekPrajapatt Group. We are an emerg
 
 | Division | Status |
 |---|---|
-| 🤖 [Prajapatt-AI](https://github.com/prajapatt-ai) | 🔨 Building |
+| 🤖 [Prajapatt AI](https://github.com/prajapatt-ai) | 🔨 Building |
 
 ---
 
