@@ -19,5 +19,5 @@ Welcome to the official headquarters of AbhishekPrajapatt Group. We are an emerg
 * **Global Impact:** Scaling visionary ideas from India to the international stage.
 
 ---
-📧 **Contact:** prajapattabhishek@gmail.com  
+📧 **Contact:** coder.dev.st@gmail.com  
 📍 **Headquarters:** Digital / India
