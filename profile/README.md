@@ -9,7 +9,7 @@ Welcome to the official headquarters of Prajapatt Group. We are an emerging glob
 
 | Division Org | Status |
 |---|---|
-| 🤖 [Prajapatt AI](https://github.com/prajapatt-ai) | 🔨 Building |
+| 🤖 [Prajapatt Tech](https://github.com/prajapatt-tech) | 🔨 Building |
 
 ---
 
