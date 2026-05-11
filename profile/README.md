@@ -1,4 +1,4 @@
-# Prajapatt Group
+<!-- # Prajapatt Group
 **Defining the Next Frontier of Human Possibility.**
 
 Welcome to the official headquarters of Prajapatt Group. We are an emerging global conglomerate dedicated to high-performance engineering, architectural excellence, and the relentless pursuit of innovation.
@@ -18,4 +18,4 @@ Welcome to the official headquarters of Prajapatt Group. We are an emerging glob
 * **Architectural Excellence:** Building robust systems designed for the next century.
 * **Global Impact:** Scaling visionary ideas from Bharat to the international stage.
 
----
+--->
